@@ -6,8 +6,6 @@
 
 <p><img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=benchanjamin" alt="benchanjamin" width="500" />&nbsp;</p>
 
-<p><img align="center" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=benchanjamin" alt="benchanjamin" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=benchanjamin&show_icons=true&locale=en" alt="benchanjamin" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=benchanjamin&" alt="benchanjamin" /></p>
